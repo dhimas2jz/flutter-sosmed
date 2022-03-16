@@ -1,6 +1,7 @@
 # sosmed_bypragata
 
 A new Flutter project.
+Project ini saya buat tetapi belum selesai karena saya sudah semester 5 dan semester 6 ini saya memutuskan untuk push github saja.
 
 ## Getting Started
 
